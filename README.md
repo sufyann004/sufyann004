@@ -8,7 +8,7 @@
 
 ##  About Me  
 
-I’m a CS student who enjoys working across the stack — from **data structures and systems** to **modern web and AI applications**.  
+I’m a CS student who enjoys working across the stack, from **data structures and systems** to **modern web and AI applications**.  
 I like understanding *how things work under the hood*, not just using abstractions.
 
 - Strong interest in **AI systems, embeddings, and offline LLMs**
